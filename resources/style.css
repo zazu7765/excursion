@@ -1,0 +1,40 @@
+body {
+	background-color: black;
+}
+h1,
+h2,
+p {
+	color: white;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+}
+h1 {
+	font-weight: normal;
+	font-size: 50px;
+}
+.download {
+	display: block;
+	text-align: center;
+	color: aquamarine;
+	font-size: 16px;
+}
+h2 {
+	font-weight: 300;
+	font-size: 42px;
+}
+p {
+	color: gray;
+	font-size: 21px;
+}
+video,
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#phone{
+  margin: 20px auto 20px auto
+}
+#footer{
+  text-align: right;
+}
